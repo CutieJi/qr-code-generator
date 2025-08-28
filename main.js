@@ -41,7 +41,7 @@ function generate(user_input) {
 
     downloadLink.style.display = "block";
     downloadLink.href = paddedCanvas.toDataURL("image/png");
-    downloadLink.download = "qrcode.png";
+    downloadLink.download = "qrosh.png";
   }, 300);
 }
 
