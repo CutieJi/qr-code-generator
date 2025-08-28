@@ -61,6 +61,6 @@ function addPaddingToQRCode(originalCanvas, padding) {
 
 tippy('#About', {
   arrow: true,
-  content: 'Created By Rosh',
+  content: 'Developed By Rosh',
   animation: 'fade',
 });
